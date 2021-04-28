@@ -13,5 +13,7 @@
         "psr-0": {
             "Helper": "src"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
