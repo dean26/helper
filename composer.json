@@ -1,11 +1,17 @@
 {
     "name": "dean26/helper",
     "description": "Simple helper methods for my Laravel projects",
-    "authors": [
-        {
-            "name": "Lucas",
-            "email": "l.przezdziek@gmail.com"
+    "license": "MIT",
+    "authors": [{
+        "name": "Lucas",
+        "email": "l.przezdziek@gmail.com"
+    }],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Helper": "src"
         }
-    ],
-    "require": {}
+    }
 }
