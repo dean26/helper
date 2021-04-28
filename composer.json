@@ -1,0 +1,11 @@
+{
+    "name": "dean26/helper",
+    "description": "Simple helper methods for my Laravel projects",
+    "authors": [
+        {
+            "name": "Lucas",
+            "email": "l.przezdziek@gmail.com"
+        }
+    ],
+    "require": {}
+}
